@@ -1,5 +1,5 @@
 {
-    "name": "h4r5h4/xsolla-sdk-php",
+    "name": "twitchalerts/xsolla-sdk-php",
     "type": "library",
     "description":"Xsolla SDK for PHP. Xsolla is the authorized reseller and merchant providing e-commerce services for online games.",
     "keywords": ["sdk", "xsolla", "api", "payment", "games"],
